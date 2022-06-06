@@ -1,1 +1,2 @@
-Hi i am Alice
+Hi i am Alice. 
+I am software developer
